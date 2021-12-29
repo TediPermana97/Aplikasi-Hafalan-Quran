@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Aktipitas.InfaqActivity">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/donasipanti"/>
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="250dp"
+                android:textStyle="bold"
+                android:textSize="15dp"
+                android:text="Assalamualaikum Wr.Wb. Perkenalkan Nama Saya Tedi Permanan Pembuat atau programer Aplikasi Hafalan Qur'an (Go-Tahfidz), disini kami membuat aplikasi ini untuk bertujuan mempermudah para penghafal Al-Qur'an dalam menghafal dan setoran hafalan melalui online, selain itu kami pribadi minta bantuannya kepada saudara-saudaraku dimanapun berada untuk berdonasi untuk saudara kita yang membutuhkan di panti asuhan dan bisa tranfer ke rekening Bank BRI : (No.Rek 1290-01-003238-50-1) selanjutnya kirim bukti transper melalui WhastAPP dengan //Ketik Nama Lengkap (L/P), //Alamat, //Jumlah Donasi, // Kirim Bukti Tranfer. trimakasih dan wasalamualaikum Wr.wb "/>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+    <LinearLayout
+        android:layout_width="382dp"
+        android:layout_height="565dp"
+        android:orientation="vertical"
+        tools:layout_editor_absoluteX="2dp"
+        tools:layout_editor_absoluteY="0dp"
+        tools:ignore="MissingConstraints">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="505dp"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/friend_1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginEnd="8dp"
+                android:background="@color/colorPrimaryDark"
+                android:text="Kirim Bukti Transfer Melalui WhatsApp"
+                android:textColor="@color/white"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="1.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/setoranhafalan" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>

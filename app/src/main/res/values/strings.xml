@@ -1,0 +1,489 @@
+<resources>
+    <string name="Tedipermana">Tedipermana</string>
+    <!--MEMBUAT MP3-->
+    <string name="sound1">Sound1</string>
+    <string name="play">Play Sound</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="app_name">GotahFidz</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello">Halo, selamat datang!</string>
+    <string name="label_button">Set Alarm</string>
+    <string name="batal">Batalkan Alarm</string>
+    <string name="aPP">appbar_scrolling_view_behavior</string>
+    <string name="title_activity_main1">Main1Activity</string>
+    <string name="title_activity_tambah">TambahActivity</string>
+    <string name="Exit">Exit</string>
+
+    <string name="slogan">Pesan Jasa Photo Lebih Mudah!</string>
+    <string name="signin">SIGN IN</string>
+    <string name="username_label">Username</string>
+    <string name="password_label">Password</string>
+    <string name="email_label">Email Address</string>
+    <string name="name_label">Nama</string>
+    <string name="status_label">Pekerjaan</string>
+    <string name="explore">EXPLORE NOW</string>
+    <string name="title_activity_home">HomeAct</string>
+    <string name="telvon">No.Handphone</string>
+
+
+    <string name="newacc">NEW ACCOUNT</string>
+    <string name="nama_label">Name</string>
+    <string name="bio_label">Status</string>
+    <string name="btn_continue">Continue</string>
+    <string name="btn_explore">Explore Now</string>
+    <color name="greenPrimary">#3AC2A9</color>
+    <string name="slogan_regis_one">Please fill up the forms below \nfor informations</string>
+    <string name="slogan_regis_two">Let the world knows yourself\nmore better and ever</string>
+
+
+    <string name="Tap_Here_ToSart">Tap here to start</string>
+    <string name="banner_ad_unitid">ca-app-pub-7120050676645894/5256340363</string>
+
+    <!-- PLEASE KEEP THIS App ID IN SAFE PLACE -->
+    <!-- Get your own App ID at https://dashboard.agora.io/ -->
+    <!-- After you entered the App ID, remove <##> outside of Your App ID -->
+    <string name="agora_app_id">7079ded5481f4f748d7b8feeb5fa0ad6</string>
+    <!-- Obtain a temp Access Token at https://dashboard.agora.io -->
+    <!-- You will need to deploy your own token server for production release -->
+    <!-- Leave this value empty if Security keys/Token is not enabled for your project -->
+    <string name="agora_access_token">fd9071f6a97e48bc9057a69ca77b5191</string>
+
+    <string name="justify">
+      Berikut ini adalah 14 tips cara untuk menghafal Al-Quran adalah sebagai berikut :
+    </string>
+
+    <string name="justify1">
+        Pertama kali seseorang yang ingin menghafal Al-Quran hendaknya mengikhlaskan niatnya karena Allah saja.
+        Dengan niat ikhlas, maka Allah akan membantu anda dan menjauhkan anda dari rasa malas dan bosan. Suatu pekerjaan yang diniatkan ikhlas,
+        biasanya akan terus dan tidak berhenti. Berbeda kalau niatnya hanya mengejar materi ujian atau hanya ingin ikut perlombaan,
+        atau hanya karena yang lainnya.
+    </string>
+
+    <string name="justify2">
+        Hendaknya setelah itu ia melakukan shalat hajat dengan memohon kepada Allah agar dimudahkan didalam menghafal Al-Quran.
+        Waktu shalat hajat ini tidak ditentukan dan doanya diserahkan kepada masing-masing pribadi.
+        Hal ini sebagai mana yang diriwayat Hudzaifah yang berkata :
+        ”bahwasanya Rosulullah jika ditimpa sesuatu masalah beliaw langsung mengerjakan shalat”
+    </string>
+
+    <string name="justify3">
+        Memperbanyak doa untuk menghafal Al-Quran. Doa ini memang tidak terdapat dalam hadist,
+        akan tetapi seorang muslim bisa berdoa menurut kemampuan yang dibahasnya masing-masing.
+        Mungkin anda bisa berdoa seperti ini, Yallah berikanlah kepada saya taufik untuk bisa menghafal Al-Quran ,
+        dan berilah saya kekuatan untuk terus membacanya siang dan malam  sesuai dengan ridha dan tuntunan-Mu, wahai yang maha pengasih.
+    </string>
+
+    <string name="justify4">
+        Menentukan salah satu metode yang menghafal Al-Quran. Sebenernya banyak sekali metode yang bisa digunakan untuk menghafal Al-Quran,
+        masing-masing orang mengambil metode yang sesuai dengan dirinya. Akan tetapi disini akan disebutkan dua metode yang sedang dipakai oleh sebagian kalangan,
+        dan terbukti sangat efektif :
+
+        </string>
+
+    <string name="justify4a">
+            Menghafal persatu halaman menggunakan mushaf yang sedang anda pegang. Anda membaca satu lembar yang mau anda hafal sebanyak 3 atau 5 kali yang akan dihafal secara benar,
+            setelah itu anda baru mulai menghafalnya, setelah hafal satu lembar, baru anda pindah kehafalan lembaran ke berikutnya dengan cara yangsama. Dan jangan sampai pindah
+            kehalaman berikutnya kecuali telah mengulangi, halaman – halaman yang sudah anda  hafal sebelumnya. Sebagai contoh jika anda menghafal satu lembar kemudian anda
+            lanjutkan pada lembar kedua, maka sebelumnya menghafal halama ketiga, anda harus mengulangi dua halaman, sebelumnya kemudian sebelum menghafal halaman keempat,
+            anda harus mengulangi tiga halaman yang sudah anda hafal. kemudian sebelum anda menghafal halaman ke lima, anda harus mengulangi keempat halaman yang sudah anda hafal.
+            Jadi tiaphari anda mengulangi lima halaman : satu yang baru, empat yang lama, jika anda ingin menghafal halaman keenam, maka anda harus mengulangi dulu empat halaman
+            sebelumnya, yaitu : halaman satu, dua, tiga, emapat, lima dan enam. Untuk halaman satu dan dua anda tinggal dulu, karena sudah terulangi lima kali. Jika anda ingin
+            menghafal kehalaman ketujuh, maka anda harus mengulangi dulu empat halaman sebelumnya yaitu halaman, tiga, empat, lima, dan enam. Untuk halaman satu dan dua anda
+            tinggal dulu karena sudah terulangi lima kali, dan begitu juga seterusnya.
+        </string>
+
+    <string name="justify4b">
+          Perlu diperhatikan juga, setiap anda menghafal satu halaman sebaiknya ditambah satu ayat, dihalaman berikutnya, agar anda bisa menyambungkan hafalan antara satu halaman dengan halaman berikutnya.
+        </string>
+
+    <string name="justify4c">
+            Metode Kedua :
+            Menghafal perayat, yaitu membaca satu ayat yang mau anda hafal tiga atau lima kali secara benar,
+            setelah itu, anda baru menghafal ayat tersebut. Setelah selesai, anda pindah keayat berikutnya  dengan cara yang sama,
+            dan begitu seterusnya, sampai satu halaman, akan tetapi sebelumn pindah keayat berikutnya anda harus mengulangi apa yang suudah anda hafal,
+            dari ayat sebelumnya. Setelah satu halaman, maka anda mengulanginya sebagaimana yang telah diterangkan pada metode pertama.
+        </string>
+
+
+    <string name="justify5">
+        Untuk menunjang agar bacaan baik, hendaknya hafalan yang ada , anda setorkan kepada oranglain, agar orang tersebut membenarkan jika bacaan anda salah.
+        Kadang, ketika menghafal sendiri sering terjadi kesalahan dalam bacaan, karena tidak pernah menyetorkan hafalan kepada orang lain,
+        sehingga kesalahan itu terus sering terbawa dalam hafalan, dan menghafalnya dengan bacaan tersebut bertahun-tahun lamanya tanfa mengetahui bahwa itu salah,
+        sampai orang lain yang mendengarkannya akhirnya memberitahkan kesalahan tersebut.
+    </string>
+
+    <string name="justify6">
+        Factor lain agar bacaan anda baik, dan tidak salah, adalah memperbanyak untuk mendengar kaset-kaset bacaan Al-Quran  murratal dari syaikh yang mapan dalam bacaannya.
+        Kalau bisa, tidak hanya sekedar mendengar sambil mengerjakan pekerjaan lain, akan tetapi mendengar dengan serius dan secara teratur.
+    </string>
+
+    <string name="justify7">
+        Untuk menguatkan hafalan, hendaknya anda mengulangi halaman yang sudah anda hafal sesering mungkin, jangan sampai anda merasa sudah hafal satu halaman,
+        kemudian anda tinggal hafalan tersebut dalam tempo yang lama, hal ini akan menyebabkan hilangnya hafalan tersebut.
+    </string>
+
+    <string name="justify8">
+        Faktor lain yang menguatkan hafalan adalah mengunakan seluruh panca indra yang kita miliki. Maksudnya anda menghafal bukan hanya dengan menggunakan mata saja,
+        akan tetapi dibarengi dengan membacanya dengan mulut anda, dan kalonperlu anda lanjutkan  degan menulisnya kedalam buku atau papan tulis.
+        Ini sangat membantu hafalan seseorang. Ada beberapa teman dari marokko yang menceritakan bahwa menghafal Al-Qur’an yang diterapkan disebagian daerah
+        dimaroko adalah dengan menuliskan hafalannya di papan kecil yang dipegang oleh masing-masing murid setelah mereka bisa menghafalnya diluarkepala,
+        baru tulisan tersebut dicuci dengan air.
+    </string>
+
+    <string name="justify9">
+        Menghafal kepada seorang guru. Menghafal Al-Quran kepada seorang guru yang ahli mapan dalam Al-Quran adalah sangat dipeerlukan agar seseorang bisa menghafal dengan
+        baik dan benar. Rasulullah SAW sendiri menghafal Al-Quran dengan jibril, dan mengulanginya pada bulan Ramadhan sampai dua kali katham.
+    </string>
+
+    <string name="justify10">
+        Menggunakan satu jenis mushaf Al-Quran dan jangan sekali-kali pindah dari satu jenis mushaf kepada yang lainnya. Karena mata anda ikut menghafal apa yang kita lihat.
+        Jika kita melihat satu ayat lebih dari satu posisi jelas itu akan mengaburkan hafalan anda. Masalah ini sudah dihimbau oleh salah seorang penyair dalam tulisannya :
+        “Mata akan mengahafal apa yang akan di lihatnya-sebelum telinga-, maka pilihlah satu mushaf untuk anda selama hidupmu.”
+    </string>
+
+    <string name="justify11">
+        Pilihlah waktu yang tepat untuk menghafal, dan ini tergantung kepada pribadi masing – masing akan tetapi dalam suatu hadist yang diriwayatkan oleh Abu Hurairah,
+        disebutkan bahwasanya Rasulullah bersabda, Sesungguhnya agama ini mudah , dan tidak ada yang mempersulit  diri dalam agama ini kecuali dia akan capai sendiri,
+        makanya amalkan agama ini dengan benar, pelan-pelan dan berilah kabar gembira, serta gunakan waktu pagi, siang, dan malam untuk mengerjakannya.HR.Al-Bukhari.
+        Dalam hadist diatas disebutkan disebutkan waktu pagi, siang, dan malam, artinya anda bisa menggunakan waktu-waktu tersebut untuk menghafalkan Al Quran.
+    </string>
+
+    <string name="justify12">
+        Salah satu waktu yang sangat tepat untuk melakukan pengulangan hafalan adalah waktu ketika sedang mengetrjakan shalat-shalat sunnah baik dimasjid maupun di rumah.
+        Hal ini dikarenakan  waktu shalat seseorang sedang konsentrasi menghadap Allah, dan konsentrasi inilah yang membantu kita dalam mengulangi hafalan Al-Quran.
+    </string>
+
+    <string name="justify13">
+        Salah satu faktor yang mendukung hafalan adalah memperhatikan ayat-ayat yang serupa(mutasyabih). Biasanya seseorang yang tidak memperhatikan ayat-ayat yang serupa
+        (mutasyabih), hafalannya akan tumpang-tindih antara satu dengan yang lainnya. Ayat yang ada di juz lima umpamanya akan terbawa ke juz sepuluh. Ayat yang mestinya
+        ada di surat Al-Maidah akan terbawa ke surat Al-Baqarah, dan begitu seterusnya.
+    </string>
+
+    <string name="justify14">
+        Setelah hafal Al-Quran, jangan sampai ditinggal begitu saja, banyak dari teman-teman yang sudah menamatkan Al-Quran  disalah satu pondok pesantren,
+        setelah keluar dan sibuk dengan studinya yang lebih tinggi,  atau setelah menikah, atau sudah sibuk dengan suatu pekerjaan, dia tidak lagi mempunyai program
+        untuk menjaga hafalannya kembali, sehingga Al-Quran yang sudah dihafalnya beberapa tahun  di pesantren akhirnya hanya tinggal kenangan saja.
+    </string>
+
+
+    <string name="judul">
+        13 KEUTAMAAN MENGHAFAL AL-QURAN
+    </string>
+
+    <string name="materi1">
+        Hati seorang individu Muslim tidak kosong dari Kitab Allah. Dalam hadits yang diriwayatkan oleh Ibnu Abbas secara marfu
+        “Orang yang tidak mempunyai hafalan Al-Quran sedikit pun adalah seperti rumah kumuh yang mau runtuh. (HR. At-Tirmidzi).
+    </string>
+
+    <string name="materi2">
+        Memperoleh penghormatan dari Rasulullah. Dari Abi Hurairah. ia berkata Rasulullah mengutus satu utusan yang terdiri dari beberapa orang.
+        Kemudian Rasulullah mengecek kemampuan membaca dan hafalan Al-Quran mereka. Setiap orang di antara mereka ditanya sejauh mana hafalan AlQurannya.
+        Kemudian seseorang yang paling muda ditanya oleh Rasulullah, Berapa banyak Al-Quran yang telah engkau hafal, hai Fulan Ia menjawab,
+        Aku telah menghafal surah ini dan surah ini, serta surah Al-Baqarah.
+    </string>
+
+    <string name="materi2a"> Rasulullah kembali bertanya, Apakah engkau hafal surah Al-Baqarah Ia menjawab, Betul. Rasulullah bersabda, Pergilah, dan engkau menjadi ketua rombongan itu Salah seorang dari kalangan mereka yang terhormat berkata,
+    Demi Allah, aku tidak mempelajari dan menghafal surah Al-Baqarah semata karena takut aku tidak dapat menjalankan isinya. Mendengar komentar itu,
+    Rasulullah bersabda, Pelajarilah Al-Quran dan bacalah, karena perumpamaan orang mempelajari Al-Quran dan membacanya, adalah seperti tempat bekal
+    perjalanan yang diisi dengan minyak misik, wanginya menyebar ke mana-mana.
+    </string>
+
+
+    <string name="materi3">
+        Penghafal Al-Quran akan memakai mahkota kehormatan. Dari Abi Hurairah, bahwa Rasulullah bersabda, Penghafal Al-Quran akan datang pada Hari Kiamat,
+        kemudian Al-Quran akan berkata, Wahai Tuhanku, bebaskanlah dia, kemudian orang itu dipakaikan mahkota karamah (kehormatan). Al-Quran kembali meminta,Wahai Tuhanku tambahkanlah, maka orang itu dipakaikan jubah karamah. Kemudian Al-Quran memohon lagi, Wahai Tuhanku ridhailah dia, maka Allah meridhainya.
+        Dan diperintahkan kepada orang itu, Bacalah dan teruslah naiki (derajat-derajat surga), dan Allah menambahkan dari setiap ayat yang dibacanya tambahan nikmat
+        dan kebaikan. (HR. At-Tirmidzi)
+    </string>
+
+    <string name="materi4">
+        Dapat membahagiakan kedua orangtua, sebab orangtua yang memiliki anak penghafalAl-Quran memperoleh pahala khusus. Dari Buraidah Al-Aslami,
+        ia berkata bahawasanya ia mendengar Rasulullah bersabda, Pada Hari Kiamat nanti, Al-Quran akan menemui penghafalnya ketika penghafal itu keluar dari kuburnya.
+        Al-Quran akan berwujud seseorang dan ia bertanya kepada penghafalnya, Apakah Anda mengenalku Penghafal tadi menjawab, Saya tidak mengenal kamu. Al-Quran berkata,
+        Saya adalah kawanmu, AlQuran yang membuatmu kehausan di tengah hari yang panas dan membuatmu tidak tidur pada malam hari.
+    </string>
+
+    <string name="materi4a">
+    Sesungguhnya setiap pedagang akan mendapat
+    keuntungan di belakang dagangannya dan kamu pada hari ini di belakang semua dagangan. Maka penghafal Al-Quran tadi diberi kekuasaan di tangan kanannya dan diberi
+    kekekalan di tangan kirinya, serta di atas kepalanya dipasang mahkota perkasa. Sedang kedua orangtuanya diberi dua pakaian baru lagi bagus yang harganya tidak dapat
+    dibayar oleh penghuni dunia keseluruhannya. Kedua orangtua itu lalu bertanya, Kenapa kami diberi dengan pakaian seperti ini, Kemudian dijawab,
+    Karena anakmu hafal Al-Quran.
+    </string>
+
+
+    <string name="materi4b">Kemudian kepada penghafal Al-Quran tadi di perintahkan, Bacalah dan naiklah ke tingkat tingkat surga dan kamar-kamarnya.
+    (HR. Ahmad) Rasulullah bersabda, Siapa yang membaca Al-Quran, mempelajarinya, dan mengamalkannya, maka dipakaikanlah mahkota dari cahaya pada Hari Kiamat,
+    cahayanya seperti cahaya matahari, kedua orangtuanya dipakaikan dua jubah (kemuliaan), yang tidak pernah didapatkan di dunia_keduanya bertanya:
+    mengapa kami dipakaikan jubah ini: di jawab: Karena kalian berdua memerintahkan anak kalian untuk mempelajari Al-Quran. (HR. Al-Hakim).
+
+    </string>
+
+    <string name="materi5">
+        Akan menempati tingkatan yang tinggi di Surga Allah. Rasulullah bersabda, Jumlah tingkatan-tingkatan surga sama dengan jumlah ayat-ayat Al-Quran. Maka tingkatan surga
+        yang di masuki oleh penghafal Al-Qurian adalah tingkatan yang paling atas, dimana tidak ada tingkatan lagi sesudah itu. (HR. Ahmad).
+    </string>
+
+    <string name="materi6">
+        Penghafal Al-Quran adalah keluarga Allah. Anas bin Malik berkata bahwa Rasulullah bersabda, Sesungguhnya Allah itu mempunyai keluarga yang terdiri dari
+        manusia. Kemudian Anas berkata lagi, lalu Rasulullah bertanya, Siapakah mereka itu wahai Rasulullah. Rasulullah menjawab :
+        Ia itu ahli Quran (orang yang membaca atau menghafal AlQuran dan mengamalkan isinya).Mereka adalah keluarga Allah dan orang-orang yang istimewa bagi Allah.
+
+    </string>
+
+    <string name="materi7">
+        Menjadi orang yang arif di surga Allah. Anas bin Malik berkata, bahwa Rasulullah bersabda, Para pembaca Al-Quran itu adalah orang-orang ya ng arif diantara penghuni surga
+
+    </string>
+
+    <string name="materi8">
+        Memperoleh penghormatan dari manusia. Abu Musa Al-Asyari berkata bahawasanya Rasulullah bersabda, Di antara perbuatan mengagungkan Allah adalah
+        menghormati orang Islam yang sudah tua, menghormati orang yang menghafal Al-Qurn yang tidak berlebih-lebihan dalam mengamalkan isinya dan tidak
+        membiarkan Al-Quran tidak diamalkan, serta menghormati kepada penguasa yang adil.
+    </string>
+
+    <string name="materi9">
+        Hatinya terbebas dari siksa Allah. Abdullah bin Masud berkata, Rasulullah bersabda, Bacalah Al-Quran karena Allah tidak akan menyiksa hati orang yang hafal Al-Quran.
+        Sesungguhanya Al-Quran ini adalah hidangan Allah, siapa yang memasukkinya ia akan aman. Dan barangsiapa yang mencintai Al-Quran maka hendaklah ia bergembira.
+    </string>
+
+    <string name="materi10">
+        Mereka (bagi kaum pria) lebih berhak menjadi Imam dalam shalat. Ibnu Masud berkata, Rasulullah bersabda, Yang menjadi imam dalam shalat suatu kaum hendaknya
+        yang paling pandai membaca (hafal ) Al-Quran.
+    </string>
+
+    <string name="materi11">
+        Disayangi oleh Rasulullah. Jabir bin Abdullah berkata, Rasulullah menyatukan dua orang dari orang-orang yang gugur dalam perang Uhud dalam satu liang lahad.
+        Kemudian Nabi bertanya, Dari mereka berdua siapakah paling banyak hafal Al-Quran Apabila ada orang yang dapat menunjukkan kepada salah satunya, maka Nabi memasukkan mayat
+        itu terlebih dahulu ke liang lahad.
+    </string>
+
+    <string name="materi12">
+        Dapat memberi syafaat kepada keluarga. Ali bin Abl Thalib berkata, Rasulullah bersabda, Barangsiapa membaca Al-Quran dan menghafalnya,
+        maka Allah akan memasukkannya ke dalam surga dan memberikannya hak syafaat untuk sepuluh anggota keluarganya di mana mereka semuanya telah ditetapkan untuk masuk neraka.
+    </string>
+
+    <string name="materi13">
+        Merupakan bekal-bekal yang terbaik. Jabir bin Nufair berkata, Rasulullah bersabda, Sesungguhnya kamu tidak akan kembali menghadap Allah
+        dengan membawa sesuatu yang paling baik daripada sesuatu yang berasal darinya yaitu Al Quran.
+
+    </string>
+
+    <string name="babadab">
+        Adab adalah perkara yang sangat penting dan wajib untuk dipelajari oleh setiap muslim dan muslimah, Nabi Muhammad SAW bersabda : Artinya Muliakanlah anak-anak kalian dan perbaikilah nilai-nilai adab mereka.
+        Al-Imam Abu Hafs ra berkata : Ilmu tasawwuf seluruhnya seputar adab, setiap waktu memiliki adab, dan setiap keadaan memiliki adab, dan setiap kedudukan memiliki adab,
+        maka barang siapa yang selalu berpegang teguh terhadap adab, niscaya dia akan samapai pada kedudukan orang yang agung dihadapan Allah SWT.
+    </string>
+
+    <string name="adab1">
+        Ikhlas tatkala membacanya, yaitu semata-mata karena mencari ridho Allah SWT
+    </string>
+
+    <string name="adab2">
+        Menghadap ke arah kiblat jika memungkinkan
+    </string>
+
+    <string name="adab3">
+        Sujud tilawah ketika sampai [ada ayat tilawah, seraya membaca doa sujud tilawah
+    </string>
+
+
+    <string name="adab4">
+        Merenungi ayat yang sedang dibaca
+    </string>
+
+
+    <string name="adab5">
+        Membacanya dalam keadaan suci (Berwudhu) dan jika dibaca dalam keadaan berhadast, maka perincian  hukumnya adalah sebagai berikut :
+        a)	Jika dalam keadaan berhadast kecil, maka hukumnya adalah boleh selama tanfa menyentuh Al-Qur’an.
+        b)	Jika dalam keadaan berhadast besar, maka hukumnya adalah haram
+
+    </string>
+
+
+    <string name="adab6">
+        Mengamalkan ayat yang akan dibaca, contoh : jika membaca ayt yang melarang untuk membicarakan kekurangan orang lain, maka ia tidak membicarakannya
+    </string>
+
+    <string name="adab7">
+        Memakai siwak sebelum membaca Al-Quran
+    </string>
+
+    <string name="adab8">
+        Membacanya sesuai dengan tertib surat-surat Al-Quran
+    </string>
+
+
+    <string name="adab9">
+        Membacanya seraya menangis, dan jika tidak bisa maka berusahalah seakan-akan menangis
+    </string>
+
+    <string name="adab10">
+        Memperbaiki bacaan dan membacanya dengan cara tartil
+    </string>
+
+    <string name="adab11">
+        Membacanya dengan menggunakan tajwid
+    </string>
+
+    <string name="adab12">
+        Memulainya dengan membaca taawwudz dan basmalah
+    </string>
+
+    <string name="adab13">
+        Membaca doa setelah membaca Al-Quran, karena termasuk waktu dikabulkannya doa-doa.
+    </string>
+
+    <string name="adab14">
+        Mengambil dan memegang Al-Quran dengan tangan kanan
+    </string>
+
+
+    <string name="adab15">
+        Tidak meletakan  Al-Quran dilantai, meskipun lantai tersebut suci
+    </string>
+
+
+    <string name="adab16">
+        Memperhatikan tempat tanda waqof (berhenti) yang tempat tatkala membaca Al-Quran.
+    </string>
+
+    <string name="adab17">
+        Tidak membuka lembaran kertas Al-Quran dengan jari tangan yang dibasahi dengan ludah, karena hal ini hukumnya adalah haram.
+    </string>
+
+
+    <string name="adab18">
+        Dianjurkan untuk berdiri tatkala Al-Quran akan diberikan kepadanya
+    </string>
+
+    <string name="adab19">
+        Memperbanyak membaca Al-Quran di waktu yang mulia diantaranya adalah sebagai berikut :
+        a)	Pada waktu tahajjud.
+        b)	Antara waktu maghrib dan Isya.
+        c)	Setelah sholat shubuh.
+        d)	Pada bulan ramadhan.
+        e)	Pada hari senin kamis dan jumat.
+        f)	Pada hari arofah.
+
+    </string>
+
+
+    <string name="Qs_almulk1">qs_almulk_ayat_1.jpg</string>
+
+
+    //Hadis Keutamaan menghafal Al-Quran
+    <string name="hadist1">
+        “Penghafal Quran akan datang pada hari kiamat dan AlQuran berkata: “Wahai Tuhanku, bebaskanlah dia. Kemudian orang itu dipakaikan mahkota karamah (kehormatan). AlQuran kembali meminta: Wahai Tuhanku, ridhailaih dia, maka Allah meridhainya. Dan diperintahkan kepada orang itu, bacalah dan teruslah naiki (derajat-derajat surga). Dan Allah menambahkan dari setiap ayat yang dibacanya tambahan nikmat dan kebaikan.” (HR Tirmidzi)
+    </string>
+
+    <string name="hadist2">
+        “Orang-orang yang tidak punya hafalan Al-Quran sedikit pun adalah seperti rumah kumuh yang mu runtuh.” (HR Tirmidzi)
+    </string>
+
+    <string name="hadist3">
+        “Sebaik-baik orang di antara kalian adalah orang yang mempelajari Al-Quran dan mengajarkannya” (HR. Bukhari)
+    </string>
+
+    <string name="hadist4">
+        "Tidak boleh seseorang berkeinginan kecuali dalam dua perkara, menginginkan seseorang yang diajarkan oleh Allah kepadanya Al Qur’an kemudian ia membacanya sepanjang malam dan siang, sehingga tetangganya mendengar bacaannya, kemudian ia berkata, ’Andaikan aku diberi sebagaimana si fulan diberi, sehingga aku dapat berbuat sebagaimana si fulan berbuat." (HR. Bukhari)
+    </string>
+
+    <string name="hadist5">"Barangsiapa yang membaca (hafal) Al Qur’an, maka sungguh dirinya telah menaiki derajat kenabian, hanya saja tidak diwahyukan kepadanya." (HR. Hakim)
+    </string>
+
+
+    <string name="hadist6">"Adalah nabi mengumpulkan di antara dua orang syuhada Uhud kemudian beliau bersabda, "Manakah di antara keduanya yang lebih banyak hafal Al Qur’an, ketika ditunjuk kepada salah satunya, maka beliau mendahulukan pemakamannya di liang lahat." (HR. Bukhari)
+
+    </string>
+
+
+    <string name="hadist7">Dari Abu Hurairah ia berkata, "Telah mengutus Rasulullah SAW sebuah delegasi yang banyak jumlahnya, kemudian Rasul mengetes hafalan mereka, kemudian satu per satu disuruh membaca apa yang sudah dihafal, maka sampailah pada Shahabi yang paling muda usianya, beliau bertanya, "Surat apa yang kau hafal? Ia menjawab,"Aku hafal surat ini.. surat ini.. dan surat Al Baqarah." Benarkah kamu hafal surat Al Baqarah?" Tanya Nabi lagi. Shahabi menjawab, "Benar." Nabi bersabda, "Berangkatlah kamu dan kamulah pemimpin delegasi." (HR. At-Turmudzi dan An-Nasa’i)
+    </string>
+
+
+    <string name="hadist8">"Yang menjadi imam suatu kaum adalah yang paling banyak hafalannya." (HR. Muslim)
+
+    </string>
+
+
+    <string name="hadist9">"Sebenarnya, Al Quran itu adalah ayat-ayat yang nyata di dalam dada orang-orang yang diberi ilmu. Dan tidak ada yang mengingkari ayat-ayat Kami kecuali orang-orang yang zalim." (QS Al-Ankabuut 29:49)
+
+    </string>
+
+
+    <string name="hadist10">"Sesungguhnya Allah mempunyai keluarga di antara manusia, para sahabat bertanya, "Siapakah mereka ya Rasulullah?" Rasul menjawab, "Para ahli Al Qur’an. Merekalah keluarga Allah dan pilihan-pilihan-Nya." (HR. Ahmad)
+
+    </string>
+
+
+    <string name="hadist11">"Sesungguhnya termasuk mengagungkan Allah menghormati orang tua yang muslim, penghafal Al Qur’an yang tidak melampaui batas (di dalam mengamalkan dan memahaminya) dan tidak menjauhinya (enggan membaca dan mengamalkannya) dan Penguasa yang adil." (HR. Abu Daud)
+
+    </string>
+
+
+    <string name="hadist12">Dari Abi Umamah ra. ia berkata, "Aku mendengar Rasulullah SAW bersabda, "Bacalah olehmu Al Qur’an, sesungguhnya ia akan menjadi pemberi syafa’at pada hari kiamat bagi para pembacanya (penghafalnya)."" (HR. Muslim)
+
+    </string>
+
+
+    <string name="hadist13">Dari Abdillah bin Amr bin ’Ash dari Nabi SAW, beliau bersabda, "Akan dikatakan kepada shahib Al Qur’an, "Bacalah dan naiklah serta tartilkan sebagaimana engkau dulu mentartilkan Al Qur’an di dunia, sesungguhnya kedudukanmu di akhir ayat yang kau baca." (HR. Abu Daud dan Turmudzi)
+
+    </string>
+
+    <string name="hadist14">"Dan perumpamaan orang yang membaca Al Qur’an sedangkan ia hafal ayat-ayatnya bersama para malaikat yang mulia dan taat." (Muttafaqun ‘alaih)
+
+    </string>
+
+    <string name="hadist15">Mereka akan dipanggil, "Di mana orang-orang yang tidak terlena oleh menggembala kambing dari membaca kitabku?" Maka berdirilah mereka dan dipakaikan kepada salah seorang mereka mahkota kemuliaan, diberikan kepadanya kesuksesan dengan tangan kanan dan kekekalan dengan tangan kirinya. (HR. At-Tabrani)
+
+    </string>
+
+    <string name="hadist20">qs_almulk_ayat_1.jpg
+
+    </string>
+
+
+    <string name="sabaq">Merupakan hafalan baru yang akan anda perdengarkan setiap hari kepada guru tahfidz. Sabak juga dikenal dengan istilah “setoran”. Hafalan baru bergantung kepada kemampuan dan kesungguhan  seorang pelajar. Biasaanya satu kali setoran antara satu atau dua halaman. Bagi yang mampu mendapatkan dua halaman (satu lembar) untuk setiap hari secara istiqamah, saya golongkan dalam golongan yang excellent. Bagi yang mampu istiqamah satu halaman saya kira sebagai golongan biasa dan bagi yang mendapat kurang dari itu masuk sebagai kelas lemah
+
+    </string>
+
+    <string name="sabaq1">Berikut ini adalah proses untuk melakukan menghafal Al-Qur’an dengan menggunakan metode sabaq yaitu dengan cara  menghafalkan Al-Qur’an pada ayat-ayat yang baru akan dihafalkan  seperti hafalan dibawah ini :
+
+    </string>
+
+    <string name="sabaq2">a)  Pada setiap penghafal Al-Qur’an, setiap harinya harus menghafal ayat Al-Qur’an surah yang baru akan di hafalkan misalnya pada surah Al-Qur’an Juz 30 surah An-Naba yang baru mulai akan dihafalkan, maka setelah hafal surah An Naba tersebut kemudian hafalan surah An Naba yang sudah kita hafal bisa langsung disetorkan kepada ustd pengajar, kemudian setelah selesai di setorkan hafalan surah An Naba, langsung melanjutkan ke surah selanjutnya yaitu surah An Nazi’at yang akan dihafalkan dan ikuti langkah selanjutnya sampai selesai menghafal juz 30.setelah selesai menghafal pada Al-Qur’an juz 30 kemudian melanjutkan ke hafalan Juz 29 dan ikuti langkah-langkah menghafal  Al-Qur’an seperti pada juz 30 sampai selesai atau khatam Al Qur’an.
+
+    </string>
+
+    <string name="sabqi"> metode sabqi Yaitu mengulang hafalan pada juz-juz atau ayat Al-Quran  yang sedang anda hafal. Bagi beberapa santri Tahfidz, seringkali istilah ini belum familiar bahkan asing di telinga mereka, sistem ini belum popular dan tidak digunakan secara resmi di beberapa pesantren Tahfidz
+
+    </string>
+
+    <string name="sabqi1">Berikut ini adalah proses tahapan untuk melakukan mengulang hafalan Al-Qur’an yang telah dihafalkan dengan menggunakan metode sabqi seperti pada contoh dibawah ini :
+
+    </string>
+
+    <string name="sabqi2">a)  Dalam proses melakukan hafalan sabqi atau mengulang hafalan adalah dengan cara mengulang halafan sebelumnya. Misalnya parapenghafal Al-Quran Sebelumnya sudah menghafal Al-Qur’an juz 30 dari surah An Naba sampai surah An Naas kemudian, para penghafal Al Qur’an melakukan mengulang hafalan pada juz 30 tersebut yang telah di hafalkan.
+
+    </string>
+
+
+    <string name="manzil">Dikenal juga dengan ‘Muraja’ah’ yaitu mengulang juz-juz atau ayat-ayat yang telah anda hafal. Contohnya jika seorang penghafal  sedang menghafal Al-Qur’an juz 30, maka juz 29 disebut Manzil </string>
+
+
+    <string name="manzil1">Berikut ini adalah proses tahapan untuk melakukan muraja’ah hafalan al-qur’an yang telah selesai dihafalkan dengan menggunakan metode manzil seperti pada contoh dibawah ini : </string>
+
+    <string name="manzil2">a)	Apabila para penghafal Al Qur’an sudah selesai menghafal pada Al Qur’an juz 30 dan juz 29 diwajibkan untuk  mengulang juz sebelumnya. Misalnya para penghafal Al Qur’an  sudah selesai menghafal Al Qur’an juz 30 dan juz 29  berarti para penghafal sudah mempunyai simpanan hafalan 2 juz yaitu juz 30 dan juz 29, maka pada hafalan 2 juz tersebut akan di ulang misalkan mengngulang hafalan juz 30 maka juz 30 tersebut di sebut manzil, apa bila para penghafal blum mencapai hafalan sampai 1 juz kemudian hafalan per’ayaat bisa di ulang kembali maka itu di sebut manzil untuk mengulang atau muroja’an hafalan yang sudah di hafalkan.</string>
+
+
+    <string name="iibdarmajaya">
+        FAKULTAS ILMU KOMPUTER
+        JURUSAN TEKNIK INFORMATIKA
+        INSTITUT INFORMATIKA DAN BISNIS DARMAJAYA
+
+    </string>
+
+</resources>

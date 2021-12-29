@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Ustad_ProfilActivity">
+
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="273dp"
+            android:background="@drawable/dj" />
+
+        <HorizontalScrollView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="280dp">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="160dp">
+
+                <Button
+                    android:id="@+id/friend_4"
+                    android:layout_width="156dp"
+                    android:layout_height="match_parent"
+                    android:layout_alignParentBottom="true"
+                    android:background="@drawable/ust_mustofa"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/friend_3" />
+
+                <Button
+                    android:id="@+id/friend_1"
+                    android:layout_width="156dp"
+                    android:layout_height="match_parent"
+                    android:layout_above="@+id/friend_2"
+                    android:background="@drawable/ust_suratno"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/setoranhafalan" />
+
+                <Button
+                    android:id="@+id/friend_2"
+                    android:layout_width="156dp"
+                    android:layout_height="match_parent"
+                    android:layout_above="@+id/friend_3"
+                    android:background="@drawable/ust_zakaria"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/friend_1" />
+
+                <Button
+                    android:id="@+id/friend_3"
+                    android:layout_width="156dp"
+                    android:layout_height="match_parent"
+                    android:layout_above="@+id/friend_4"
+                    android:background="@drawable/ust_syafiudin"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/friend_2" />
+
+
+            </LinearLayout>
+        </HorizontalScrollView>
+
+    </RelativeLayout>
+
+</LinearLayout>

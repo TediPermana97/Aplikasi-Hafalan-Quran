@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Alquran.QsJuz_30Activity">
+
+    <TextView
+        android:id="@+id/txtjudul"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Al-Qura'an Juz 30"
+        android:textSize="30sp"
+        android:layout_marginBottom="10dp"
+        android:padding="16dp"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/txtjudul">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/btn1"
+                android:background="@drawable/w_oranye"
+                android:layout_marginBottom="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="0dp"
+                android:layout_marginRight="0dp"
+                android:text="78.An-Naba"
+                android:textSize="25sp" />
+
+            <Button
+                android:background="@drawable/w_oranye"
+                android:layout_marginBottom="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="79.An-Naziat"
+                android:id="@+id/btn2"
+                android:layout_marginLeft="0dp"
+                android:layout_marginRight="0dp"
+                android:textSize="25sp"/>
+
+            <Button
+                android:background="@drawable/w_oranye"
+                android:layout_marginBottom="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="80.'Abasa"
+                android:id="@+id/btn3"
+                android:layout_marginLeft="0dp"
+                android:layout_marginRight="0dp"
+                android:textSize="25sp"/>
+
+            <Button
+                android:background="@drawable/w_oranye"
+                android:layout_marginBottom="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="81.At-Takwir"
+                android:id="@+id/btn4"
+                android:layout_marginLeft="0dp"
+                android:layout_marginRight="0dp"
+                android:textSize="25sp"/>
+
+            <Button
+                android:background="@drawable/w_oranye"
+                android:layout_marginBottom="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="82.Al-Infitar"
+                android:id="@+id/btn5"
+                android:layout_marginLeft="0dp"
+                android:layout_marginRight="0dp"
+                android:textSize="25sp"/>
+
+            <Button
+                android:background="@drawable/w_oranye"
+                android:layout_marginBottom="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="83.Al-Muthaffifin"
+                android:id="@+id/btn6"
+                android:layout_marginLeft="0dp"
+                android:layout_marginRight="0dp"
+                android:textSize="25sp"/>
+
+            <Button
+                android:background="@drawable/w_oranye"
+                android:layout_marginBottom="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="84.Al-Insyiqaq"
+                android:id="@+id/btn7"
+                android:layout_marginLeft="0dp"
+                android:layout_marginRight="0dp"
+                android:textSize="25sp"/>
+
+            <Button
+                android:background="@drawable/w_oranye"
+                android:layout_marginBottom="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="85.Al-Buruj"
+                android:id="@+id/btn8"
+                android:layout_marginLeft="0dp"
+                android:layout_marginRight="0dp"
+                android:textSize="25sp"/>
+
+            <Button
+                android:background="@drawable/w_oranye"
+                android:layout_marginBottom="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="86.At-Tariq"
+                android:id="@+id/btn9"
+                android:layout_marginLeft="0dp"
+                android:layout_marginRight="0dp"
+                android:textSize="25sp"/>
+
+            <Button
+                android:background="@drawable/w_oranye"
+                android:layout_marginBottom="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="87.Al-A'la"
+                android:id="@+id/btn10"
+                android:layout_marginLeft="0dp"
+                android:layout_marginRight="0dp"
+                android:textSize="25sp"/>
+
+            <Button
+                android:background="@drawable/w_oranye"
+                android:layout_marginBottom="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="88.Al-Ghasyiyah"
+                android:id="@+id/btn11"
+                android:layout_marginLeft="0dp"
+                android:layout_marginRight="0dp"
+                android:textSize="25sp"/>
+
+            <Button
+                android:background="@drawable/w_oranye"
+                android:layout_marginBottom="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="89.Al-Fajr"
+                android:id="@+id/btn12"
+                android:layout_marginLeft="0dp"
+                android:layout_marginRight="0dp"
+                android:textSize="25sp"/>
+
+            <Button
+                android:background="@drawable/w_oranye"
+                android:layout_marginBottom="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="90.Al-Balad"
+                android:id="@+id/btn13"
+                android:layout_marginLeft="0dp"
+                android:layout_marginRight="0dp"
+                android:textSize="25sp"/>
+
+            <Button
+                android:background="@drawable/w_oranye"
+                android:layout_marginBottom="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="91.Asy-Syams"
+                android:id="@+id/btn14"
+                android:layout_marginLeft="0dp"
+                android:layout_marginRight="0dp"
+                android:textSize="25sp"/>
+
+
+            <Button
+                android:background="@drawable/w_oranye"
+                android:layout_marginBottom="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="92.Al-Lail"
+                android:id="@+id/btn15"
+                android:layout_marginLeft="0dp"
+                android:layout_marginRight="0dp"
+                android:textSize="25sp"/>
+
+            <Button
+                android:background="@drawable/w_oranye"
+                android:layout_marginBottom="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="93.Adh-Dhuha"
+                android:id="@+id/btn16"
+                android:layout_marginLeft="0dp"
+                android:layout_marginRight="0dp"
+                android:textSize="25sp"/>
+
+            <Button
+                android:background="@drawable/w_oranye"
+                android:layout_marginBottom="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="94.Al-Insyirah"
+                android:id="@+id/btn17"
+                android:layout_marginLeft="0dp"
+                android:layout_marginRight="0dp"
+                android:textSize="25sp"/>
+
+            <Button
+                android:background="@drawable/w_oranye"
+                android:layout_marginBottom="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="95.At-Tin"
+                android:id="@+id/btn18"
+                android:layout_marginLeft="0dp"
+                android:layout_marginRight="0dp"
+                android:textSize="25sp"/>
+
+            <Button
+                android:background="@drawable/w_oranye"
+                android:layout_marginBottom="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="96.Al-Alaq"
+                android:id="@+id/btn19"
+                android:layout_marginLeft="0dp"
+                android:layout_marginRight="0dp"
+                android:textSize="25sp"/>
+
+            <Button
+                android:background="@drawable/w_oranye"
+                android:layout_marginBottom="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="97.Al-Qadr"
+                android:id="@+id/btn20"
+                android:layout_marginLeft="0dp"
+                android:layout_marginRight="0dp"
+                android:textSize="25sp"/>
+
+            <Button
+                android:background="@drawable/w_oranye"
+                android:layout_marginBottom="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="98.Al-Bayyinah"
+                android:id="@+id/btn21"
+                android:layout_marginLeft="0dp"
+                android:layout_marginRight="0dp"
+                android:textSize="25sp"/>
+
+            <Button
+                android:background="@drawable/w_oranye"
+                android:layout_marginBottom="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="99.Al-Zalzalah"
+                android:id="@+id/btn22"
+                android:layout_marginLeft="0dp"
+                android:layout_marginRight="0dp"
+                android:textSize="25sp"/>
+
+            <Button
+                android:background="@drawable/w_oranye"
+                android:layout_marginBottom="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="100.Al-Adiyat"
+                android:id="@+id/btn23"
+                android:layout_marginLeft="0dp"
+                android:layout_marginRight="0dp"
+                android:textSize="25sp"/>
+
+            <Button
+                android:background="@drawable/w_oranye"
+                android:layout_marginBottom="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="101.Al-Qari'ah"
+                android:id="@+id/btn24"
+                android:layout_marginLeft="0dp"
+                android:layout_marginRight="0dp"
+                android:textSize="25sp"/>
+
+            <Button
+                android:background="@drawable/w_oranye"
+                android:layout_marginBottom="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="102.At-Takasur"
+                android:id="@+id/btn25"
+                android:layout_marginLeft="0dp"
+                android:layout_marginRight="0dp"
+                android:textSize="25sp"/>
+
+            <Button
+                android:background="@drawable/w_oranye"
+                android:layout_marginBottom="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="103.Al-'Asr"
+                android:id="@+id/btn26"
+                android:layout_marginLeft="0dp"
+                android:layout_marginRight="0dp"
+                android:textSize="25sp"/>
+
+            <Button
+                android:background="@drawable/w_oranye"
+                android:layout_marginBottom="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="104.Al-Humazah"
+                android:id="@+id/btn27"
+                android:layout_marginLeft="0dp"
+                android:layout_marginRight="0dp"
+                android:textSize="25sp"/>
+
+            <Button
+                android:background="@drawable/w_oranye"
+                android:layout_marginBottom="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="105.Al-Fil"
+                android:id="@+id/btn28"
+                android:layout_marginLeft="0dp"
+                android:layout_marginRight="0dp"
+                android:textSize="25sp"/>
+
+            <Button
+                android:background="@drawable/w_oranye"
+                android:layout_marginBottom="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="106.Al-Quraish"
+                android:id="@+id/btn29"
+                android:layout_marginLeft="0dp"
+                android:layout_marginRight="0dp"
+                android:textSize="25sp"/>
+
+            <Button
+                android:background="@drawable/w_oranye"
+                android:layout_marginBottom="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="107.Al-Ma'un"
+                android:id="@+id/btn30"
+                android:layout_marginLeft="0dp"
+                android:layout_marginRight="0dp"
+                android:textSize="25sp"/>
+
+
+            <Button
+                android:background="@drawable/w_oranye"
+                android:layout_marginBottom="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="108.Al-Kautsar"
+                android:id="@+id/btn31"
+                android:layout_marginLeft="0dp"
+                android:layout_marginRight="0dp"
+                android:textSize="25sp"/>
+
+            <Button
+                android:background="@drawable/w_oranye"
+                android:layout_marginBottom="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="109.Al-Kafirun"
+                android:id="@+id/btn32"
+                android:layout_marginLeft="0dp"
+                android:layout_marginRight="0dp"
+                android:textSize="25sp"/>
+
+            <Button
+                android:background="@drawable/w_oranye"
+                android:layout_marginBottom="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="110.An-Nashr"
+                android:id="@+id/btn33"
+                android:layout_marginLeft="0dp"
+                android:layout_marginRight="0dp"
+                android:textSize="25sp"/>
+
+            <Button
+                android:background="@drawable/w_oranye"
+                android:layout_marginBottom="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="111.Al-Lahab"
+                android:id="@+id/btn34"
+                android:layout_marginLeft="0dp"
+                android:layout_marginRight="0dp"
+                android:textSize="25sp"/>
+
+            <Button
+                android:background="@drawable/w_oranye"
+                android:layout_marginBottom="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="112.Al-Ikhlas"
+                android:id="@+id/btn35"
+                android:layout_marginLeft="0dp"
+                android:layout_marginRight="0dp"
+                android:textSize="25sp"/>
+
+            <Button
+                android:background="@drawable/w_oranye"
+                android:layout_marginBottom="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="113.Al-Falaq"
+                android:id="@+id/btn36"
+                android:layout_marginLeft="0dp"
+                android:layout_marginRight="0dp"
+                android:textSize="25sp"/>
+
+            <Button
+                android:background="@drawable/w_oranye"
+                android:layout_marginBottom="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="114.An-Nas"
+                android:id="@+id/btn37"
+                android:layout_marginLeft="0dp"
+                android:layout_marginRight="0dp"
+                android:textSize="25sp"/>
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

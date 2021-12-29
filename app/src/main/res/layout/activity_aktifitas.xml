@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white1"
+    tools:context=".Aktipitas.AktifitasActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:layout_marginLeft="0dp"
+        android:layout_weight="10"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/begraund_menu_utama"
+            android:scaleType="fitCenter" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="374dp"
+        android:layout_height="166dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="230dp"
+        android:layout_marginRight="10dp"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="154dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="12dp"
+            android:layout_marginRight="5dp"
+            android:layout_weight="1"
+            android:onClick="onClickAlarm"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="336dp"
+                android:layout_height="match_parent"
+                android:layout_marginHorizontal="11dp"
+                android:layout_weight="1"
+                android:background="@drawable/begraunda1"
+                android:clickable="true"
+                android:onClick="onClickAlarm"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:layout_width="86dp"
+                    android:layout_height="110dp"
+                    android:layout_marginStart="44dp"
+                    android:layout_marginTop="20dp"
+                    android:layout_weight="1"
+                    android:scaleType="fitCenter"
+                    android:src="@drawable/alarma" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="3"
+                    android:gravity="center"
+                    android:text="Alarm"
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="336dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@drawable/begraunda1"
+                android:clickable="true"
+                android:onClick="onClickJdwlsolat"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:layout_width="86dp"
+                    android:layout_height="110dp"
+                    android:layout_marginStart="44dp"
+                    android:layout_marginTop="20dp"
+                    android:layout_weight="1"
+                    android:scaleType="fitCenter"
+                    android:src="@drawable/j" />
+
+                <TextView
+                    android:layout_width="150dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="11dp"
+                    android:layout_weight="3"
+                    android:gravity="center"
+                    android:text="Jawal Sholat"
+                    android:textStyle="bold" />
+            </LinearLayout>
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="151dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="410dp"
+        android:layout_marginRight="5dp"
+        android:layout_weight="1"
+        android:onClick="onClickInfaq"
+        android:layout_marginStart="100dp"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+
+            android:layout_weight="5"
+            android:background="@drawable/begraunda1"
+            android:clickable="true"
+            android:onClick="onClickInfaq"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="176dp"
+                android:layout_height="115dp"
+                android:layout_marginStart="10dp"
+                android:layout_weight="1"
+                android:scaleType="fitCenter"
+                android:src="@drawable/donasi" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="113dp"
+                android:layout_marginStart="10dp"
+                android:layout_weight="3"
+                android:gravity="center"
+                android:text="Donasi"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+    </LinearLayout>
+</RelativeLayout>

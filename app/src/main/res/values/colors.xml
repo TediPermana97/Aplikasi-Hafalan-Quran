@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="button">#f7edf1</color>
+
+    <color name="white">#ffffffff</color>
+    <color name="semi_black">#8a000000</color>
+    <color name="pink">#FF4081</color>
+    <color name="purple">#ff5e35b1</color>
+    <color name="transparent">#00000000</color>
+    <color name="hitam">#2c2d2d</color>
+    <color name="white1">#faf6f1</color>
+    <color name="login">#06a3e8</color>
+
+    <color name="bluePrimary">#000084</color>
+    <color name="grayPrimary">#8D8D8D</color>
+    <color name="blackPrimary">#000000</color>
+    <color name="whitePrimary">#FFF</color>
+    <color name="bgPrimary">#E5DEDE</color>
+    <color name="bgblueprimary">#050521</color>
+    <color name="bggrayprimary">#F2EAEA</color>
+
+    <color name="textcolor1">#00086c</color>
+    <color name="background_text_color">#8FFFFF</color>
+
+
+
+
+
+
+</resources>

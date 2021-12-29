@@ -1,0 +1,955 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Edukasi.AdabActivity">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <android.support.v7.widget.CardView
+            xmlns:card_view="http://schemas.android.com/apk/res-auto"
+            android:clickable="true"
+            android:foreground="?attr/selectableItemBackground"
+            card_view:cardCornerRadius="5dp"
+            card_view:cardElevation="4dp"
+            card_view:cardMaxElevation="4dp"
+            card_view:cardPreventCornerOverlap="true"
+            card_view:contentPadding="10dp"
+            card_view:cardUseCompatPadding="true"
+            style="@style/cardView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:fontFamily="sans-serif"
+                    android:layout_marginTop="5dp"
+                    android:textColor="@color/semi_black"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAllCaps="true"
+                    android:textSize="18sp"
+                    android:textStyle="bold"
+                    android:text="19 Adab Membaca Al-Qur'an  :"/>
+
+                <android.support.v7.widget.AppCompatTextView
+                    android:id="@+id/a0"
+                    android:text="@string/babadab"
+                    android:padding="10dp"
+                    android:textColor="@color/semi_black"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginBottom="10dp"
+                    android:layout_width="match_parent"
+                    android:layout_gravity="right"
+                    android:layout_height="wrap_content" >
+                </android.support.v7.widget.AppCompatTextView>
+
+
+            </LinearLayout>
+
+        </android.support.v7.widget.CardView>
+
+        <android.support.v7.widget.CardView
+            xmlns:card_view="http://schemas.android.com/apk/res-auto"
+            android:clickable="true"
+            android:foreground="?attr/selectableItemBackground"
+            card_view:cardCornerRadius="5dp"
+            card_view:cardElevation="4dp"
+            card_view:cardMaxElevation="4dp"
+            card_view:cardPreventCornerOverlap="true"
+            card_view:contentPadding="10dp"
+            card_view:cardUseCompatPadding="true"
+            style="@style/cardView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:fontFamily="sans-serif"
+                    android:layout_marginTop="5dp"
+                    android:textColor="@color/semi_black"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAllCaps="true"
+                    android:textSize="18sp"
+                    android:textStyle="bold"
+                    android:text="Adab Membaca Al-Qur'an ke-1  :"/>
+
+                <android.support.v7.widget.AppCompatTextView
+                    android:id="@+id/a1"
+                    android:text="@string/adab1"
+                    android:padding="10dp"
+                    android:textColor="@color/semi_black"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginBottom="10dp"
+                    android:layout_width="match_parent"
+                    android:layout_gravity="right"
+                    android:layout_height="wrap_content" >
+                </android.support.v7.widget.AppCompatTextView>
+
+            </LinearLayout>
+
+        </android.support.v7.widget.CardView>
+
+        <android.support.v7.widget.CardView
+            xmlns:card_view="http://schemas.android.com/apk/res-auto"
+            android:clickable="true"
+            android:foreground="?attr/selectableItemBackground"
+            card_view:cardCornerRadius="5dp"
+            card_view:cardElevation="4dp"
+            card_view:cardMaxElevation="4dp"
+            card_view:cardPreventCornerOverlap="true"
+            card_view:contentPadding="10dp"
+            card_view:cardUseCompatPadding="true"
+            style="@style/cardView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:fontFamily="sans-serif"
+                    android:layout_marginTop="5dp"
+                    android:textColor="@color/semi_black"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAllCaps="true"
+                    android:textSize="18sp"
+                    android:textStyle="bold"
+                    android:text="Adab Membaca Al-Qur'an ke-2  :"/>
+
+                <android.support.v7.widget.AppCompatTextView
+                    android:id="@+id/a2"
+                    android:text="@string/adab2"
+                    android:padding="10dp"
+                    android:textColor="@color/semi_black"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginBottom="10dp"
+                    android:layout_width="match_parent"
+                    android:layout_gravity="right"
+                    android:layout_height="wrap_content" >
+                </android.support.v7.widget.AppCompatTextView>
+
+            </LinearLayout>
+
+        </android.support.v7.widget.CardView>
+
+
+        <android.support.v7.widget.CardView
+            xmlns:card_view="http://schemas.android.com/apk/res-auto"
+            android:clickable="true"
+            android:foreground="?attr/selectableItemBackground"
+            card_view:cardCornerRadius="5dp"
+            card_view:cardElevation="4dp"
+            card_view:cardMaxElevation="4dp"
+            card_view:cardPreventCornerOverlap="true"
+            card_view:contentPadding="10dp"
+            card_view:cardUseCompatPadding="true"
+            style="@style/cardView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:fontFamily="sans-serif"
+                    android:layout_marginTop="5dp"
+                    android:textColor="@color/semi_black"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAllCaps="true"
+                    android:textSize="18sp"
+                    android:textStyle="bold"
+                    android:text="Adab Membaca Al-Qur'an ke-3  :"/>
+
+                <android.support.v7.widget.AppCompatTextView
+                    android:id="@+id/a3"
+                    android:text="@string/adab3"
+                    android:padding="10dp"
+                    android:textColor="@color/semi_black"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginBottom="10dp"
+                    android:layout_width="match_parent"
+                    android:layout_gravity="right"
+                    android:layout_height="wrap_content" >
+                </android.support.v7.widget.AppCompatTextView>
+
+            </LinearLayout>
+
+        </android.support.v7.widget.CardView>
+
+
+        <android.support.v7.widget.CardView
+            xmlns:card_view="http://schemas.android.com/apk/res-auto"
+            android:clickable="true"
+            android:foreground="?attr/selectableItemBackground"
+            card_view:cardCornerRadius="5dp"
+            card_view:cardElevation="4dp"
+            card_view:cardMaxElevation="4dp"
+            card_view:cardPreventCornerOverlap="true"
+            card_view:contentPadding="10dp"
+            card_view:cardUseCompatPadding="true"
+            style="@style/cardView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:fontFamily="sans-serif"
+                    android:layout_marginTop="5dp"
+                    android:textColor="@color/semi_black"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAllCaps="true"
+                    android:textSize="18sp"
+                    android:textStyle="bold"
+                    android:text="Adab Membaca Al-Qur'an ke-4:"/>
+
+                <android.support.v7.widget.AppCompatTextView
+                    android:id="@+id/a4"
+                    android:text="@string/adab4"
+                    android:padding="10dp"
+                    android:textColor="@color/semi_black"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginBottom="10dp"
+                    android:layout_width="match_parent"
+                    android:layout_gravity="right"
+                    android:layout_height="wrap_content" >
+                </android.support.v7.widget.AppCompatTextView>
+
+            </LinearLayout>
+
+        </android.support.v7.widget.CardView>
+
+
+        <android.support.v7.widget.CardView
+            xmlns:card_view="http://schemas.android.com/apk/res-auto"
+            android:clickable="true"
+            android:foreground="?attr/selectableItemBackground"
+            card_view:cardCornerRadius="5dp"
+            card_view:cardElevation="4dp"
+            card_view:cardMaxElevation="4dp"
+            card_view:cardPreventCornerOverlap="true"
+            card_view:contentPadding="10dp"
+            card_view:cardUseCompatPadding="true"
+            style="@style/cardView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:fontFamily="sans-serif"
+                    android:layout_marginTop="5dp"
+                    android:textColor="@color/semi_black"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAllCaps="true"
+                    android:textSize="18sp"
+                    android:textStyle="bold"
+                    android:text="Adab Membaca Al-Qur'an ke-5  :"/>
+
+                <android.support.v7.widget.AppCompatTextView
+                    android:id="@+id/a5"
+                    android:text="@string/adab5"
+                    android:padding="10dp"
+                    android:textColor="@color/semi_black"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginBottom="10dp"
+                    android:layout_width="match_parent"
+                    android:layout_gravity="right"
+                    android:layout_height="wrap_content" >
+                </android.support.v7.widget.AppCompatTextView>
+
+            </LinearLayout>
+
+        </android.support.v7.widget.CardView>
+
+
+        <android.support.v7.widget.CardView
+            xmlns:card_view="http://schemas.android.com/apk/res-auto"
+            android:clickable="true"
+            android:foreground="?attr/selectableItemBackground"
+            card_view:cardCornerRadius="5dp"
+            card_view:cardElevation="4dp"
+            card_view:cardMaxElevation="4dp"
+            card_view:cardPreventCornerOverlap="true"
+            card_view:contentPadding="10dp"
+            card_view:cardUseCompatPadding="true"
+            style="@style/cardView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:fontFamily="sans-serif"
+                    android:layout_marginTop="5dp"
+                    android:textColor="@color/semi_black"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAllCaps="true"
+                    android:textSize="18sp"
+                    android:textStyle="bold"
+                    android:text="Adab Membaca Al-Qur'an ke-6 :"/>
+
+                <android.support.v7.widget.AppCompatTextView
+                    android:id="@+id/a6"
+                    android:text="@string/adab6"
+                    android:padding="10dp"
+                    android:textColor="@color/semi_black"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginBottom="10dp"
+                    android:layout_width="match_parent"
+                    android:layout_gravity="right"
+                    android:layout_height="wrap_content" >
+                </android.support.v7.widget.AppCompatTextView>
+
+            </LinearLayout>
+
+        </android.support.v7.widget.CardView>
+
+
+        <android.support.v7.widget.CardView
+            xmlns:card_view="http://schemas.android.com/apk/res-auto"
+            android:clickable="true"
+            android:foreground="?attr/selectableItemBackground"
+            card_view:cardCornerRadius="5dp"
+            card_view:cardElevation="4dp"
+            card_view:cardMaxElevation="4dp"
+            card_view:cardPreventCornerOverlap="true"
+            card_view:contentPadding="10dp"
+            card_view:cardUseCompatPadding="true"
+            style="@style/cardView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:fontFamily="sans-serif"
+                    android:layout_marginTop="5dp"
+                    android:textColor="@color/semi_black"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAllCaps="true"
+                    android:textSize="18sp"
+                    android:textStyle="bold"
+                    android:text="Adab Membaca Al-Qur'an ke-7 :"/>
+
+                <android.support.v7.widget.AppCompatTextView
+                    android:id="@+id/a7"
+                    android:text="@string/adab7"
+                    android:padding="10dp"
+                    android:textColor="@color/semi_black"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginBottom="10dp"
+                    android:layout_width="match_parent"
+                    android:layout_gravity="right"
+                    android:layout_height="wrap_content" >
+                </android.support.v7.widget.AppCompatTextView>
+
+            </LinearLayout>
+
+        </android.support.v7.widget.CardView>
+
+
+        <android.support.v7.widget.CardView
+            xmlns:card_view="http://schemas.android.com/apk/res-auto"
+            android:clickable="true"
+            android:foreground="?attr/selectableItemBackground"
+            card_view:cardCornerRadius="5dp"
+            card_view:cardElevation="4dp"
+            card_view:cardMaxElevation="4dp"
+            card_view:cardPreventCornerOverlap="true"
+            card_view:contentPadding="10dp"
+            card_view:cardUseCompatPadding="true"
+            style="@style/cardView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:fontFamily="sans-serif"
+                    android:layout_marginTop="5dp"
+                    android:textColor="@color/semi_black"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAllCaps="true"
+                    android:textSize="18sp"
+                    android:textStyle="bold"
+                    android:text="Adab Membaca Al-Qur'an ke-8 :"/>
+
+                <android.support.v7.widget.AppCompatTextView
+                    android:id="@+id/a8"
+                    android:text="@string/adab8"
+                    android:padding="10dp"
+                    android:textColor="@color/semi_black"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginBottom="10dp"
+                    android:layout_width="match_parent"
+                    android:layout_gravity="right"
+                    android:layout_height="wrap_content" >
+                </android.support.v7.widget.AppCompatTextView>
+
+            </LinearLayout>
+
+        </android.support.v7.widget.CardView>
+
+
+        <android.support.v7.widget.CardView
+            xmlns:card_view="http://schemas.android.com/apk/res-auto"
+            android:clickable="true"
+            android:foreground="?attr/selectableItemBackground"
+            card_view:cardCornerRadius="5dp"
+            card_view:cardElevation="4dp"
+            card_view:cardMaxElevation="4dp"
+            card_view:cardPreventCornerOverlap="true"
+            card_view:contentPadding="10dp"
+            card_view:cardUseCompatPadding="true"
+            style="@style/cardView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:fontFamily="sans-serif"
+                    android:layout_marginTop="5dp"
+                    android:textColor="@color/semi_black"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAllCaps="true"
+                    android:textSize="18sp"
+                    android:textStyle="bold"
+                    android:text="Adab Membaca Al-Qur'an ke-9:"/>
+
+                <android.support.v7.widget.AppCompatTextView
+                    android:id="@+id/a9"
+                    android:text="@string/adab9"
+                    android:padding="10dp"
+                    android:textColor="@color/semi_black"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginBottom="10dp"
+                    android:layout_width="match_parent"
+                    android:layout_gravity="right"
+                    android:layout_height="wrap_content" >
+                </android.support.v7.widget.AppCompatTextView>
+
+            </LinearLayout>
+
+        </android.support.v7.widget.CardView>
+
+
+        <android.support.v7.widget.CardView
+            xmlns:card_view="http://schemas.android.com/apk/res-auto"
+            android:clickable="true"
+            android:foreground="?attr/selectableItemBackground"
+            card_view:cardCornerRadius="5dp"
+            card_view:cardElevation="4dp"
+            card_view:cardMaxElevation="4dp"
+            card_view:cardPreventCornerOverlap="true"
+            card_view:contentPadding="10dp"
+            card_view:cardUseCompatPadding="true"
+            style="@style/cardView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:fontFamily="sans-serif"
+                    android:layout_marginTop="5dp"
+                    android:textColor="@color/semi_black"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAllCaps="true"
+                    android:textSize="18sp"
+                    android:textStyle="bold"
+                    android:text="Adab Membaca Al-Qur'an ke-10 :"/>
+
+                <android.support.v7.widget.AppCompatTextView
+                    android:id="@+id/a10"
+                    android:text="@string/adab10"
+                    android:padding="10dp"
+                    android:textColor="@color/semi_black"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginBottom="10dp"
+                    android:layout_width="match_parent"
+                    android:layout_gravity="right"
+                    android:layout_height="wrap_content" >
+                </android.support.v7.widget.AppCompatTextView>
+
+            </LinearLayout>
+
+        </android.support.v7.widget.CardView>
+
+
+        <android.support.v7.widget.CardView
+            xmlns:card_view="http://schemas.android.com/apk/res-auto"
+            android:clickable="true"
+            android:foreground="?attr/selectableItemBackground"
+            card_view:cardCornerRadius="5dp"
+            card_view:cardElevation="4dp"
+            card_view:cardMaxElevation="4dp"
+            card_view:cardPreventCornerOverlap="true"
+            card_view:contentPadding="10dp"
+            card_view:cardUseCompatPadding="true"
+            style="@style/cardView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:fontFamily="sans-serif"
+                    android:layout_marginTop="5dp"
+                    android:textColor="@color/semi_black"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAllCaps="true"
+                    android:textSize="18sp"
+                    android:textStyle="bold"
+                    android:text="Adab Membaca Al-Qur'an ke-11 :"/>
+
+                <android.support.v7.widget.AppCompatTextView
+                    android:id="@+id/a11"
+                    android:text="@string/adab11"
+                    android:padding="10dp"
+                    android:textColor="@color/semi_black"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginBottom="10dp"
+                    android:layout_width="match_parent"
+                    android:layout_gravity="right"
+                    android:layout_height="wrap_content" >
+                </android.support.v7.widget.AppCompatTextView>
+
+            </LinearLayout>
+
+        </android.support.v7.widget.CardView>
+
+
+        <android.support.v7.widget.CardView
+            xmlns:card_view="http://schemas.android.com/apk/res-auto"
+            android:clickable="true"
+            android:foreground="?attr/selectableItemBackground"
+            card_view:cardCornerRadius="5dp"
+            card_view:cardElevation="4dp"
+            card_view:cardMaxElevation="4dp"
+            card_view:cardPreventCornerOverlap="true"
+            card_view:contentPadding="10dp"
+            card_view:cardUseCompatPadding="true"
+            style="@style/cardView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:fontFamily="sans-serif"
+                    android:layout_marginTop="5dp"
+                    android:textColor="@color/semi_black"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAllCaps="true"
+                    android:textSize="18sp"
+                    android:textStyle="bold"
+                    android:text="Adab Membaca Al-Qur'an ke-12  :"/>
+
+                <android.support.v7.widget.AppCompatTextView
+                    android:id="@+id/a12"
+                    android:text="@string/adab12"
+                    android:padding="10dp"
+                    android:textColor="@color/semi_black"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginBottom="10dp"
+                    android:layout_width="match_parent"
+                    android:layout_gravity="right"
+                    android:layout_height="wrap_content" >
+                </android.support.v7.widget.AppCompatTextView>
+
+            </LinearLayout>
+
+        </android.support.v7.widget.CardView>
+
+
+        <android.support.v7.widget.CardView
+            xmlns:card_view="http://schemas.android.com/apk/res-auto"
+            android:clickable="true"
+            android:foreground="?attr/selectableItemBackground"
+            card_view:cardCornerRadius="5dp"
+            card_view:cardElevation="4dp"
+            card_view:cardMaxElevation="4dp"
+            card_view:cardPreventCornerOverlap="true"
+            card_view:contentPadding="10dp"
+            card_view:cardUseCompatPadding="true"
+            style="@style/cardView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:fontFamily="sans-serif"
+                    android:layout_marginTop="5dp"
+                    android:textColor="@color/semi_black"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAllCaps="true"
+                    android:textSize="18sp"
+                    android:textStyle="bold"
+                    android:text="Adab Membaca Al-Qur'an ke-13 :"/>
+
+                <android.support.v7.widget.AppCompatTextView
+                    android:id="@+id/a13"
+                    android:text="@string/adab13"
+                    android:padding="10dp"
+                    android:textColor="@color/semi_black"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginBottom="10dp"
+                    android:layout_width="match_parent"
+                    android:layout_gravity="right"
+                    android:layout_height="wrap_content" >
+                </android.support.v7.widget.AppCompatTextView>
+
+            </LinearLayout>
+
+        </android.support.v7.widget.CardView>
+
+
+        <android.support.v7.widget.CardView
+            xmlns:card_view="http://schemas.android.com/apk/res-auto"
+            android:clickable="true"
+            android:foreground="?attr/selectableItemBackground"
+            card_view:cardCornerRadius="5dp"
+            card_view:cardElevation="4dp"
+            card_view:cardMaxElevation="4dp"
+            card_view:cardPreventCornerOverlap="true"
+            card_view:contentPadding="10dp"
+            card_view:cardUseCompatPadding="true"
+            style="@style/cardView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:fontFamily="sans-serif"
+                    android:layout_marginTop="5dp"
+                    android:textColor="@color/semi_black"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAllCaps="true"
+                    android:textSize="18sp"
+                    android:textStyle="bold"
+                    android:text="Adab Membaca Al-Qur'an ke-14 :"/>
+
+                <android.support.v7.widget.AppCompatTextView
+                    android:id="@+id/a14"
+                    android:text="@string/adab14"
+                    android:padding="10dp"
+                    android:textColor="@color/semi_black"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginBottom="10dp"
+                    android:layout_width="match_parent"
+                    android:layout_gravity="right"
+                    android:layout_height="wrap_content" >
+                </android.support.v7.widget.AppCompatTextView>
+
+            </LinearLayout>
+
+        </android.support.v7.widget.CardView>
+
+
+        <android.support.v7.widget.CardView
+            xmlns:card_view="http://schemas.android.com/apk/res-auto"
+            android:clickable="true"
+            android:foreground="?attr/selectableItemBackground"
+            card_view:cardCornerRadius="5dp"
+            card_view:cardElevation="4dp"
+            card_view:cardMaxElevation="4dp"
+            card_view:cardPreventCornerOverlap="true"
+            card_view:contentPadding="10dp"
+            card_view:cardUseCompatPadding="true"
+            style="@style/cardView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:fontFamily="sans-serif"
+                    android:layout_marginTop="5dp"
+                    android:textColor="@color/semi_black"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAllCaps="true"
+                    android:textSize="18sp"
+                    android:textStyle="bold"
+                    android:text="Adab Membaca Al-Qur'an ke-15 :"/>
+
+                <android.support.v7.widget.AppCompatTextView
+                    android:id="@+id/a15"
+                    android:text="@string/adab15"
+                    android:padding="10dp"
+                    android:textColor="@color/semi_black"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginBottom="10dp"
+                    android:layout_width="match_parent"
+                    android:layout_gravity="right"
+                    android:layout_height="wrap_content" >
+                </android.support.v7.widget.AppCompatTextView>
+
+            </LinearLayout>
+
+        </android.support.v7.widget.CardView>
+
+
+        <android.support.v7.widget.CardView
+            xmlns:card_view="http://schemas.android.com/apk/res-auto"
+            android:clickable="true"
+            android:foreground="?attr/selectableItemBackground"
+            card_view:cardCornerRadius="5dp"
+            card_view:cardElevation="4dp"
+            card_view:cardMaxElevation="4dp"
+            card_view:cardPreventCornerOverlap="true"
+            card_view:contentPadding="10dp"
+            card_view:cardUseCompatPadding="true"
+            style="@style/cardView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:fontFamily="sans-serif"
+                    android:layout_marginTop="5dp"
+                    android:textColor="@color/semi_black"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAllCaps="true"
+                    android:textSize="18sp"
+                    android:textStyle="bold"
+                    android:text="Adab Membaca Al-Qur'an ke-16 :"/>
+
+                <android.support.v7.widget.AppCompatTextView
+                    android:id="@+id/a16"
+                    android:text="@string/adab16"
+                    android:padding="10dp"
+                    android:textColor="@color/semi_black"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginBottom="10dp"
+                    android:layout_width="match_parent"
+                    android:layout_gravity="right"
+                    android:layout_height="wrap_content" >
+                </android.support.v7.widget.AppCompatTextView>
+
+            </LinearLayout>
+
+        </android.support.v7.widget.CardView>
+
+
+        <android.support.v7.widget.CardView
+            xmlns:card_view="http://schemas.android.com/apk/res-auto"
+            android:clickable="true"
+            android:foreground="?attr/selectableItemBackground"
+            card_view:cardCornerRadius="5dp"
+            card_view:cardElevation="4dp"
+            card_view:cardMaxElevation="4dp"
+            card_view:cardPreventCornerOverlap="true"
+            card_view:contentPadding="10dp"
+            card_view:cardUseCompatPadding="true"
+            style="@style/cardView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:fontFamily="sans-serif"
+                    android:layout_marginTop="5dp"
+                    android:textColor="@color/semi_black"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAllCaps="true"
+                    android:textSize="18sp"
+                    android:textStyle="bold"
+                    android:text="Adab Membaca Al-Qur'an ke-17 :"/>
+
+                <android.support.v7.widget.AppCompatTextView
+                    android:id="@+id/a17"
+                    android:text="@string/adab17"
+                    android:padding="10dp"
+                    android:textColor="@color/semi_black"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginBottom="10dp"
+                    android:layout_width="match_parent"
+                    android:layout_gravity="right"
+                    android:layout_height="wrap_content" >
+                </android.support.v7.widget.AppCompatTextView>
+
+            </LinearLayout>
+
+        </android.support.v7.widget.CardView>
+
+
+        <android.support.v7.widget.CardView
+            xmlns:card_view="http://schemas.android.com/apk/res-auto"
+            android:clickable="true"
+            android:foreground="?attr/selectableItemBackground"
+            card_view:cardCornerRadius="5dp"
+            card_view:cardElevation="4dp"
+            card_view:cardMaxElevation="4dp"
+            card_view:cardPreventCornerOverlap="true"
+            card_view:contentPadding="10dp"
+            card_view:cardUseCompatPadding="true"
+            style="@style/cardView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:fontFamily="sans-serif"
+                    android:layout_marginTop="5dp"
+                    android:textColor="@color/semi_black"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAllCaps="true"
+                    android:textSize="18sp"
+                    android:textStyle="bold"
+                    android:text="Adab Membaca Al-Qur'an ke-18 :"/>
+
+                <android.support.v7.widget.AppCompatTextView
+                    android:id="@+id/a18"
+                    android:text="@string/adab18"
+                    android:padding="10dp"
+                    android:textColor="@color/semi_black"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginBottom="10dp"
+                    android:layout_width="match_parent"
+                    android:layout_gravity="right"
+                    android:layout_height="wrap_content" >
+                </android.support.v7.widget.AppCompatTextView>
+
+            </LinearLayout>
+
+        </android.support.v7.widget.CardView>
+
+        <android.support.v7.widget.CardView
+            xmlns:card_view="http://schemas.android.com/apk/res-auto"
+            android:clickable="true"
+            android:foreground="?attr/selectableItemBackground"
+            card_view:cardCornerRadius="5dp"
+            card_view:cardElevation="4dp"
+            card_view:cardMaxElevation="4dp"
+            card_view:cardPreventCornerOverlap="true"
+            card_view:contentPadding="10dp"
+            card_view:cardUseCompatPadding="true"
+            style="@style/cardView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="190dp"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:fontFamily="sans-serif"
+                    android:text="Adab Membaca Al-Qur'an ke-19 :"
+                    android:textAllCaps="true"
+                    android:textColor="@color/semi_black"
+                    android:textSize="18sp"
+                    android:textStyle="bold" />
+
+                <android.support.v7.widget.AppCompatTextView
+                    android:id="@+id/a19"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="right"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginBottom="10dp"
+                    android:padding="10dp"
+                    android:text="@string/adab19"
+                    android:textColor="@color/semi_black"></android.support.v7.widget.AppCompatTextView>
+
+            </LinearLayout>
+
+        </android.support.v7.widget.CardView>
+
+
+
+    </LinearLayout>
+
+</ScrollView>

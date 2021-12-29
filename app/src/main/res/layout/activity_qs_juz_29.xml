@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Alquran.QsJuz_29Activity">
+
+    <TextView
+        android:id="@+id/txtjudul"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Al-Qura'an Juz 29"
+        android:layout_marginBottom="10dp"
+        android:textSize="30sp"
+        android:background="@color/white"
+        android:padding="16dp"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/txtjudul">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/btn1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="0dp"
+                android:layout_marginRight="0dp"
+                android:layout_marginBottom="5dp"
+                android:background="@drawable/w_oranye"
+                android:text="67.Al-Mulk"
+                android:textSize="25sp" />
+
+            <Button
+                android:id="@+id/btn2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="0dp"
+                android:layout_marginRight="0dp"
+                android:background="@drawable/w_oranye"
+                android:layout_marginBottom="5dp"
+                android:text="68.Al-Qallam"
+                android:textSize="25sp" />
+
+            <Button
+                android:background="@drawable/w_oranye"
+                android:layout_marginBottom="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="69.Al-Haqqah"
+                android:id="@+id/btn3"
+                android:layout_marginLeft="0dp"
+                android:layout_marginRight="0dp"
+                android:textSize="25sp"/>
+
+            <Button
+                android:background="@drawable/w_oranye"
+                android:layout_marginBottom="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="70.Al-Ma'arij"
+                android:id="@+id/btn4"
+                android:layout_marginLeft="0dp"
+                android:layout_marginRight="0dp"
+                android:textSize="25sp"/>
+
+            <Button
+                android:background="@drawable/w_oranye"
+                android:layout_marginBottom="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="71.Nuh"
+                android:id="@+id/btn5"
+                android:layout_marginLeft="0dp"
+                android:layout_marginRight="0dp"
+                android:textSize="25sp"/>
+
+            <Button
+                android:id="@+id/btn6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="0dp"
+                android:layout_marginRight="0dp"
+                android:layout_marginBottom="5dp"
+                android:background="@drawable/w_oranye"
+                android:text="72.Al-Jinn"
+                android:textSize="25sp" />
+
+            <Button
+                android:id="@+id/btn7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="0dp"
+                android:layout_marginRight="0dp"
+                android:background="@drawable/w_oranye"
+                android:layout_marginBottom="5dp"
+                android:text="73.Al-Muzzammil"
+                android:textSize="25sp" />
+
+            <Button
+                android:background="@drawable/w_oranye"
+                android:layout_marginBottom="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="74.Al-Muddassir"
+                android:id="@+id/btn8"
+                android:layout_marginLeft="0dp"
+                android:layout_marginRight="0dp"
+                android:textSize="25sp"/>
+
+            <Button
+                android:background="@drawable/w_oranye"
+                android:layout_marginBottom="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="75.Al-Qiyamah"
+                android:id="@+id/btn9"
+                android:layout_marginLeft="0dp"
+                android:layout_marginRight="0dp"
+                android:textSize="25sp"/>
+
+            <Button
+                android:background="@drawable/w_oranye"
+                android:layout_marginBottom="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="76.Al-Insan"
+                android:id="@+id/btn10"
+                android:layout_marginLeft="0dp"
+                android:layout_marginRight="0dp"
+                android:textSize="25sp"/>
+
+            <Button
+                android:background="@drawable/w_oranye"
+                android:layout_marginBottom="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="77.Al-Mursalat"
+                android:id="@+id/btn11"
+                android:layout_marginLeft="0dp"
+                android:layout_marginRight="0dp"
+                android:textSize="25sp"/>
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

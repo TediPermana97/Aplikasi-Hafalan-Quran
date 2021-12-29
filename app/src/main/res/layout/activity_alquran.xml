@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Alquran.AlquranActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="240dp"
+        android:layout_marginLeft="0dp"
+        android:layout_weight="10"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="4dp"
+            android:layout_weight="1"
+            android:background="@drawable/begraund_menu_utama"
+            android:scaleType="fitCenter" />
+    </LinearLayout>
+
+    <HorizontalScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="374dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="210dp"
+            android:layout_marginRight="10dp"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="348dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="12dp"
+                android:layout_marginRight="15dp"
+                android:layout_weight="1"
+                android:onClick="onClickJuz29"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/begraunda1"
+                    android:clickable="true"
+                    android:onClick="onClickJuz29"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:layout_width="93dp"
+                        android:layout_height="38dp"
+                        android:layout_marginStart="35dp"
+                        android:layout_weight="5"
+                        android:scaleType="fitCenter"
+                        android:src="@drawable/hafalan" />
+
+                    <TextView
+                        android:layout_width="156dp"
+                        android:layout_height="0dp"
+                        android:layout_weight="3"
+
+                        android:gravity="center"
+                        android:text="Al-Qur'an Juz 29"
+                        android:textStyle="bold" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="0dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginRight="0dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/begraunda1"
+                    android:onClick="onClickJuz30"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:layout_width="93dp"
+                        android:layout_height="109dp"
+                        android:layout_marginStart="35dp"
+                        android:layout_weight="5"
+                        android:scaleType="fitCenter"
+                        android:src="@drawable/hafalan" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="43dp"
+                        android:layout_weight="3"
+                        android:gravity="center"
+                        android:text="Al-Qur'an Juz 30 "
+                        android:textStyle="bold" />
+                </LinearLayout>
+
+            </LinearLayout>
+
+        </LinearLayout>
+    </HorizontalScrollView>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="450dp"
+        android:layout_marginStart="30dp"
+        android:textSize="25dp"
+        android:text="Selamat Menghafal Al-Qur'an"/>
+
+
+
+
+</RelativeLayout>

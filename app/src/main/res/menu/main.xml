@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item  android:title="Order" android:id="@+id/order">Order</item>
+    <item  android:title="About" android:id="@+id/about">About</item>
+    <item  android:title="Top Menu" android:id="@+id/topMenu">Top Menu</item>
+    <item  android:title="Quit" android:id="@+id/quit">Quit</item>
+
+    <item  android:title="Tips" android:id="@+id/Tips">Tips</item>
+    <item  android:title="Keutamaan" android:id="@+id/Keutamaan">Keutamaan</item>
+    <item  android:title="Hadis" android:id="@+id/Hadis">Hadis</item>
+</menu>
